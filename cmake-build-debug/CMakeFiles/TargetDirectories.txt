@@ -1,0 +1,3 @@
+/Users/Ivan/CLionProjects/trim_right/cmake-build-debug/CMakeFiles/trim_right.dir
+/Users/Ivan/CLionProjects/trim_right/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Ivan/CLionProjects/trim_right/cmake-build-debug/CMakeFiles/rebuild_cache.dir
