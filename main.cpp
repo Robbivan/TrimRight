@@ -20,7 +20,6 @@ int main() {
     // Урезание пробелов в строке
     TrimRight(symbol);
     // Тестирование строки
-    symbol = &str[0];
     for (;*symbol;++symbol){
         std::cout<<*symbol;
     }
